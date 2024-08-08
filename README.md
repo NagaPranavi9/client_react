@@ -1,3 +1,5 @@
+Client-React is the frontend for the clients to add their restaurants into the db
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
